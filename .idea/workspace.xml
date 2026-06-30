@@ -22,65 +22,65 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="9.770041666555508E-134" />
-      <entry key="MS500" value="2.500226092452207E-27" />
-      <entry key="S2" value="2.2405420874331844E-7" />
-      <entry key="S5" value="0.002529492294042074" />
-      <entry key="S10" value="0.09261496721325278" />
-      <entry key="S30" value="2.26903758866178" />
-      <entry key="S60" value="7.017115187834496" />
-      <entry key="M2" value="15.43379812807679" />
-      <entry key="M5" value="30.874733443348898" />
-      <entry key="M10" value="41.69996975701308" />
-      <entry key="M15" value="46.5578989438792" />
-      <entry key="M30" value="52.26383266121187" />
-      <entry key="H1" value="55.490154254285414" />
-      <entry key="H2" value="57.207856009653405" />
-      <entry key="H4" value="58.094389418386655" />
-      <entry key="D1" value="58.847719775316705" />
-      <entry key="W1" value="58.97821247166857" />
+      <entry key="MS100" value="1.0032853346224004" />
+      <entry key="MS500" value="1.3752815279715238" />
+      <entry key="S2" value="2.2391670824074064" />
+      <entry key="S5" value="2.642367180874126" />
+      <entry key="S10" value="2.8139659897221163" />
+      <entry key="S30" value="3.678742461635781" />
+      <entry key="S60" value="6.985942396522767" />
+      <entry key="M2" value="14.663715195880473" />
+      <entry key="M5" value="30.611599635611363" />
+      <entry key="M10" value="42.436250912025294" />
+      <entry key="M15" value="47.857622525728104" />
+      <entry key="M30" value="54.30078915703923" />
+      <entry key="H1" value="57.97657023176348" />
+      <entry key="H2" value="59.94250950445621" />
+      <entry key="H4" value="60.95950605911538" />
+      <entry key="D1" value="61.82492598682849" />
+      <entry key="W1" value="61.97494846211606" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.000003738195042" />
-      <entry key="S60" value="1.0022167151337502" />
-      <entry key="M2" value="1.0612380407229058" />
-      <entry key="M5" value="1.4843293281397574" />
-      <entry key="M10" value="1.9801581305385967" />
-      <entry key="M15" value="2.242053973169554" />
-      <entry key="M30" value="2.575377777490435" />
-      <entry key="H1" value="2.774831734820235" />
-      <entry key="H2" value="2.884000638296136" />
-      <entry key="H4" value="2.9411199996847084" />
-      <entry key="D1" value="2.9900620816757675" />
-      <entry key="W1" value="2.9985772156219515" />
+      <entry key="MS100" value="6.027258134141906E-146" />
+      <entry key="MS500" value="9.036993259457026E-30" />
+      <entry key="S2" value="5.482845265531833E-8" />
+      <entry key="S5" value="0.0012462420355031153" />
+      <entry key="S10" value="0.035302153411698775" />
+      <entry key="S30" value="0.3280464604031921" />
+      <entry key="S60" value="0.57402196102006" />
+      <entry key="M2" value="0.8031492207029478" />
+      <entry key="M5" value="1.3277724151470507" />
+      <entry key="M10" value="1.8728222483762347" />
+      <entry key="M15" value="2.160282367808114" />
+      <entry key="M30" value="2.5279773170011968" />
+      <entry key="H1" value="2.7491774133073545" />
+      <entry key="H2" value="2.8706378669387638" />
+      <entry key="H4" value="2.934298374127972" />
+      <entry key="D1" value="2.9889051061041565" />
+      <entry key="W1" value="2.9984114352111217" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.1886145520340558E-10" />
-      <entry key="MS500" value="0.010351617320665685" />
-      <entry key="S2" value="0.31897183474601093" />
-      <entry key="S5" value="0.6355343155698518" />
-      <entry key="S10" value="0.8831738525853887" />
-      <entry key="S30" value="3.131868823503997" />
-      <entry key="S60" value="7.8682644945664135" />
-      <entry key="M2" value="16.34091276441096" />
-      <entry key="M5" value="32.23240152234177" />
-      <entry key="M10" value="43.590563703651064" />
-      <entry key="M15" value="48.73182003898649" />
-      <entry key="M30" value="54.799988833542024" />
-      <entry key="H1" value="58.24387083505659" />
-      <entry key="H2" value="60.08089201096207" />
-      <entry key="H4" value="61.02992117945979" />
-      <entry key="D1" value="61.8368354060476" />
-      <entry key="W1" value="61.97665410587992" />
+      <entry key="MS100" value="0.9360983059332404" />
+      <entry key="MS500" value="1.3561157814520972" />
+      <entry key="S2" value="2.2309149634259806" />
+      <entry key="S5" value="2.639183901436028" />
+      <entry key="S10" value="2.839746875815512" />
+      <entry key="S30" value="3.9610461665220855" />
+      <entry key="S60" value="7.4730635866825255" />
+      <entry key="M2" value="15.350033761968298" />
+      <entry key="M5" value="31.825994106688075" />
+      <entry key="M10" value="44.22432579094058" />
+      <entry key="M15" value="49.9522315455214" />
+      <entry key="M30" value="56.790254049698646" />
+      <entry key="H1" value="60.704821355708035" />
+      <entry key="H2" value="62.80223036152233" />
+      <entry key="H4" value="63.88822756759652" />
+      <entry key="D1" value="64.81288474346637" />
+      <entry key="W1" value="64.97322428559191" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="AISelfReview" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1,
@@ -94,7 +94,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for test_pytest_prc.test_hard_assertion.executor": "Run",
+    "Python tests.Python tests for test_pytest_prc.test_soft_assertion.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
@@ -114,6 +117,50 @@
     ]
   }
 }]]></component>
+  <component name="RunManager" selected="Python tests.Python tests for test_pytest_prc.test_soft_assertion">
+    <configuration name="Python tests for test_pytest_prc.test_hard_assertion" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Pytest_Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_pytest_prc.test_hard_assertion&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_pytest_prc.test_soft_assertion" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Pytest_Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_pytest_prc.test_soft_assertion&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_pytest_prc.test_soft_assertion" />
+        <item itemvalue="Python tests.Python tests for test_pytest_prc.test_hard_assertion" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -129,11 +176,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782796045594</updated>
-      <workItem from="1782796046575" duration="1175000" />
+      <workItem from="1782796046575" duration="1515000" />
     </task>
+    <task id="LOCAL-00001" summary="1st commit">
+      <option name="closed" value="true" />
+      <created>1782797257120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782797257120</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1st commit">
+      <option name="closed" value="true" />
+      <created>1782797269644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1782797269644</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st commit" />
   </component>
 </project>

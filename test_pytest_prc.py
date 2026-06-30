@@ -5,15 +5,18 @@ import pytest_check as check
 
 def test_hard_assertion():
     print("check 1 started...")
-    assert 1 == 1 "Test pass"
+    assert 1 == 1
+    "Test pass"
     print("check 1 completed...")
 
     print("check 2 started...")
-    assert 2 == 2 "Test pass"
+    assert 2 == 2
+    "Test pass"
     print("check 2 completed...")
 
     print("check 3 started...")
-    assert 3 == 3 "Test pass"
+    assert 3 == 3
+    "Test pass"
     print("check 3 completed...")
 
 
