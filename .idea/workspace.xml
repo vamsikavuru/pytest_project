@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="da84aa77-9dce-4a20-b7a8-95d79ec74a5b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,8 +10,77 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="9.770041666555508E-134" />
+      <entry key="MS500" value="2.500226092452207E-27" />
+      <entry key="S2" value="2.2405420874331844E-7" />
+      <entry key="S5" value="0.002529492294042074" />
+      <entry key="S10" value="0.09261496721325278" />
+      <entry key="S30" value="2.26903758866178" />
+      <entry key="S60" value="7.017115187834496" />
+      <entry key="M2" value="15.43379812807679" />
+      <entry key="M5" value="30.874733443348898" />
+      <entry key="M10" value="41.69996975701308" />
+      <entry key="M15" value="46.5578989438792" />
+      <entry key="M30" value="52.26383266121187" />
+      <entry key="H1" value="55.490154254285414" />
+      <entry key="H2" value="57.207856009653405" />
+      <entry key="H4" value="58.094389418386655" />
+      <entry key="D1" value="58.847719775316705" />
+      <entry key="W1" value="58.97821247166857" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.000003738195042" />
+      <entry key="S60" value="1.0022167151337502" />
+      <entry key="M2" value="1.0612380407229058" />
+      <entry key="M5" value="1.4843293281397574" />
+      <entry key="M10" value="1.9801581305385967" />
+      <entry key="M15" value="2.242053973169554" />
+      <entry key="M30" value="2.575377777490435" />
+      <entry key="H1" value="2.774831734820235" />
+      <entry key="H2" value="2.884000638296136" />
+      <entry key="H4" value="2.9411199996847084" />
+      <entry key="D1" value="2.9900620816757675" />
+      <entry key="W1" value="2.9985772156219515" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.1886145520340558E-10" />
+      <entry key="MS500" value="0.010351617320665685" />
+      <entry key="S2" value="0.31897183474601093" />
+      <entry key="S5" value="0.6355343155698518" />
+      <entry key="S10" value="0.8831738525853887" />
+      <entry key="S30" value="3.131868823503997" />
+      <entry key="S60" value="7.8682644945664135" />
+      <entry key="M2" value="16.34091276441096" />
+      <entry key="M5" value="32.23240152234177" />
+      <entry key="M10" value="43.590563703651064" />
+      <entry key="M15" value="48.73182003898649" />
+      <entry key="M30" value="54.799988833542024" />
+      <entry key="H1" value="58.24387083505659" />
+      <entry key="H2" value="60.08089201096207" />
+      <entry key="H4" value="61.02992117945979" />
+      <entry key="D1" value="61.8368354060476" />
+      <entry key="W1" value="61.97665410587992" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="AISelfReview" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1,
@@ -26,7 +98,20 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -44,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782796045594</updated>
-      <workItem from="1782796046575" duration="7000" />
+      <workItem from="1782796046575" duration="1175000" />
     </task>
     <servers />
   </component>
